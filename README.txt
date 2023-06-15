@@ -1,2 +1,18 @@
-Meu primeiro portfólio desenvolvido 
-em html e css, a partir de estudos iniciais .
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Carlos Galdino
+
+### Linkedin: https://www.linkedin.com/in/carlosjgaldino/
+
+```
